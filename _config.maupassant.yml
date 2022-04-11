@@ -83,7 +83,7 @@ donate:
   paypal_url: ## Paypal URL, e.g. https://www.paypal.me/tufu9441
 post_copyright:
   enable: true ## If you want to display the copyright info after each post, please set the value to true and fill the following items on your need.
-  author: P.X. ## Your author name, e.g. tufu9441
+  author: 归夜 ## Your author name, e.g. tufu9441
   copyright_text: CC BY-SA 4.0 ## Your copyright text, e.g. The author owns the copyright, please indicate the source reproduced.
 love: false ## If you want the love to appear when you click anywhere, set the value to true.
 plantuml: ## Using PlantUML to generate UML diagram, must install hexo-filter-plantuml (https://github.com/miao1007/hexo-filter-plantuml).
@@ -111,7 +111,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - tag
   - recent_posts
   - recent_comments
-  - links
+  # - links
 
 links:
   #- title: site-name1
